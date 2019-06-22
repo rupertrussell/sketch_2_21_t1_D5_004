@@ -1,10 +1,10 @@
-// see: https://en.wikipedia.org/wiki/6-cube
-// 2 21 t2 E6
+// 2 21 t1 D5_004
 // by Rupert Russell
 // start 22 June 2019
 // working towards draing the following shape
 // https://en.wikipedia.org/wiki/2_21_polytope#/media/File:Up_2_21_t1_D5.svg
-// eight sides
+// https://en.wikipedia.org/wiki/2_21_polytope
+// Thanks to: https://stackoverflow.com/questions/33819998/algorithm-to-find-all-line-segment-intersections-given-n-lines
 
 float ix; // intersection point
 float iy; // intersection point
